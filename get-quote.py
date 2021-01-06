@@ -18,6 +18,7 @@ f variable or object as defined earlier"""
   f.write("%s" % ("\nNew line added"))
   f.close
   print(quotes[last])
+  
 def centralb():
     print("This will print", end=' ')
     print("without", end=' ')
